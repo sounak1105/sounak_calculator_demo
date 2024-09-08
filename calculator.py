@@ -73,7 +73,7 @@ def main():
             result = tothepower(float(input1), float(input2))
         
         else:
-            print("this operation does not exist")
+            print("this operation does not exists")
             return
 
         print(f'{input1} {op} {input2} = {result}')
